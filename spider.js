@@ -11,7 +11,7 @@
       i = t[o - 1];
     return {
       l: o,
-      z: n(i, "zIndex", 1),
+      z: n(i, "zIndex", 0),
       o: n(i, "opacity", 0.5),
       c: n(i, "color", "0,0,0"),
       n: n(i, "count", 99),
